@@ -40,11 +40,8 @@ module.exports = {
     },
 
     // async update(){
-
     // },
-
     // async destroy(){
-
     // },
 
 };
